@@ -1,0 +1,26 @@
+name: wiki_plantas
+description: Um aplicativo para gerenciar informações sobre plantas.
+
+publish_to: 'none' # Defina como 'none' se você não pretende publicar este pacote.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0" # Use uma versão do Dart que seja compatível com o Flutter.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3  # Versão mais estável do http, ajuste conforme necessário
+  provider: ^6.0.0 # Para gerenciamento de estado (opcional, se você precisar)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/imagens/planta1.jpg
+    - assets/imagens/planta2.jpg
+    - assets/imagens/planta3.jpg
