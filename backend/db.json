@@ -1,0 +1,34 @@
+{
+  "plantas": [
+    {
+      "id": 1,
+      "nome": "Cacto",
+      "descricao": "Planta suculenta que armazena água.",
+      "especie": "Cactaceae",
+      "cores": ["verde", "amarelo"],
+      "modo_cuidado": "Colocar em local ensolarado e regar com moderação.",
+      "image": "assets/images/planta1.jpg",
+      "regiao_origem": "América"
+    },
+    {
+      "id": 2,
+      "nome": "Rosa",
+      "descricao": "Planta suculenta que armazena água.",
+      "especie": "Cactaceae",
+      "cores": ["verde", "amarelo"],
+      "modo_cuidado": "Colocar em local ensolarado e regar com moderação.",
+      "image": "assets/images/planta2.jpg",
+      "regiao_origem": "América"
+    },
+    {
+      "id": 3,
+      "nome": "Margarita",
+      "descricao": "Planta suculenta que armazena água.",
+      "especie": "Cactaceae",
+      "cores": ["verde", "amarelo"],
+      "modo_cuidado": "Colocar em local ensolarado e regar com moderação.",
+      "image": "assets/images/planta3.jpg",
+      "regiao_origem": "América"
+    }
+  ]
+}
